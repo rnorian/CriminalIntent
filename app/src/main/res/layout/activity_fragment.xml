@@ -1,0 +1,11 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragmentContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+/>
+
+    <!-- below is not specified by book
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context="org.norian.criminalintent.app.CrimeActivity"
+        tools:ignore="MergeRootFrame"
+    -->
